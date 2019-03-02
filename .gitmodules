@@ -1,0 +1,6 @@
+[submodule "spotify-examples"]
+	path = spotify-examples
+	url = https://github.com/spotify/web-api-auth-examples.git
+[submodule "forked"]
+	path = forked
+	url = https://github.com/amandahua17/web-api-auth-examples.git
